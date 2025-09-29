@@ -1,0 +1,117 @@
+=== Python ===
+
+ellibrodepython.com
+
+
+En la versión 2.0 a la 3.0 el lenguaje dejo de ser usable (si se tenía versiones anteriores en programas).
+
+Es multiparadigma (varías formas de programar): Imperativa, Orientada a Objetos, Funcional.
+
+Es de tipado dinámico (las variables no son de un tipo específico y pueden cambiar de tipo en la propia ejecución del programa).
+
+Python es un lenguaje interpretado (ejecuta línea a línea)
+
+
+-Sintaxis:
+	En Python los bloques de código se marcan por el indentado en vez de "{}"
+
+
+	condicional
+		nombre = "Diego"
+		 if (True):
+			print("Diego")
+			print(f"Hola {nombre}")
+		print("Adios")
+		else:
+
+		elif ():
+
+		if ( not num.isdigit()):
+
+
+		"Hola" if *condición* else "Adios"
+
+		msg = (
+			"Adulto" if edad => 18 else
+			"Adolescente" if edad => 13 else "Niño"		
+		)
+
+	Scanner 
+		num = input("Dime un número: ")
+		if (int(num)%2 == 0):
+			print("Es par")
+		else:
+			print("Es impar")
+
+
+	 Sentencia Bucle for
+
+		for ciclo in ["DAM", "DAW", "ASIR"]:
+			print(ciclo)
+
+		Saldría por pantalla: DAM DAW ASIR
+
+		for a in range(3):
+			print(a)
+	
+		Saldría por pantalla: 0 1 2
+
+		for b in range(2,4):
+			print(b)
+		
+		Saldría por pantalla: 2 3
+
+		for c in range(1, 9, 3):
+			print(c)
+
+		Saldría por pantalla: 1 4 7
+
+
+		for i in range (5, 1, -1):
+			print(i)
+
+		Saldría por pantalla: 5 4 3 2
+
+
+
+	Sentencia while
+	
+		a = 1
+		while (a<4):
+			a = a + 1
+			print(a)
+		else:
+			print("Hemos llegado al 4")
+
+		Saldría por pantalla: 2 3 4 Hemos llegado al 4
+
+		(Se puede utilizar el else junto al while)
+
+	Sentencia match (switch)
+
+		a = input("Dime que cicle estatus estudiando: ")
+		match a:
+			case "DAM":
+				print("Desarrollo Apli Multi")
+			case "DAW":
+				print("Desarrollo Web")
+			case _:
+				print("No lo conozco")
+			
+			*El guion bajo es como el "default" de Java.
+
+			case "DAM" | "DAW":
+				print("Es un ciclo de desarrollo")
+			case "ASIR":
+				print("Es un ciclo de sistemas")
+			case _:
+				print("No lo conozco")
+
+	Se pueden cambiar la base que utilizamos para trabajar con los números:
+
+		print(0o1234) base ocho octal - 0o
+		
+		print(0x1AF5) base dieciséis hexadecimal - 0x
+
+		print(0b1010) base dos binario - 0b
+

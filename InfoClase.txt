@@ -1,0 +1,95 @@
+=== Sistemas de gestión empresarial ===
+
+https://vgonzalez165.github.io/apuntes_sge/
+
+Es un conjunto de programas/software que nos ayudan a mejorar, automatizar, optimizar e integrar los procesos clave de una empresa/organización.
+
+Permiten mejorar la eficiencia operativa, como tareas repetitvas y así mejora el funcionamiento.
+
+Ventajas:
+	Al centralizar toda la información (gracias a los programas) ayuda a sacar 	información global de la empresa y con esta info tomar decisiones.
+
+	La escabilidad estos sistemas están diseñados para crecer y puedan llegar a 	una gran escala.
+
+	La automatización y estandarización de procesos ayuda a cumplir con 	regulaciones locales e internacionales, haciendo que haya menos riesgo legal 	y financiero.
+	
+Tres sistema de gestión empresarial:
+
+	-ERP: Se enfoca en los procesos internos de la empresa y junta todos esos 	      procesos.
+
+	-CRM: Gestionar lo relacionado con la empresa en cuanto a los clientes.
+
+	-BI: Analizan datos, y sobre estos extraer información útil para la empresa.
+
+
+	El uso combinado de estas da:
+
+	-Visión 360º de la empresa
+
+	-Mejora le eficiencia
+
+	-Mejora la satisfacción
+
+
+Enterprise resourse planning (ERP):
+
+	Es un software hecho para integrar y gestionar procesos y datos esenciales de 	la empresa, dentro de un único sistema.
+
+	-Características:
+
+		*Tiene muchos módulos que se comunican entre ellos.
+		
+		*Tiene una base de datos única (información consistente).
+
+		*Automatización de procesos, menos trabajo y errores.
+
+		*Escalabilidad, se pueden ir añadiendo cosas nuevas a lo creado 		anteriormente
+
+		*Personalización estos sistemas se adaptan a las nesidades de cada		empresa.
+
+		*Acceso en tiempo real, puedes saber todo lo que pasa en tu empresa		en el momento y con esto tomar decisiones.
+
+		Ejemplos de apps: SAP S/4HANA, ODOO, Oracle Erp Cloud, Mircrosoft 		Dynamics Erp, Infor Cloud Suite.
+
+
+		Tipos de ERP:
+
+			-CRM: Gestiona los contactos y almacenan info sobre los				clientes.
+			Permiten automatizar campañas de marketing. Y saber si han			sido efectivas.
+			Tiene funcionalidades post-venta (reclamaciones, 				tickets, autoservicio...etc)
+	
+			Ejemplos: HubSpot CRM, Nimble.
+
+	
+			-BI (Business intelligence):
+			Permiten manejar muchos datos.
+			Características:
+			
+				-Recopilan datos de distinta fuentes y la guarda en				en un repositorio centralizado (data warehouse).
+
+				-Transformación y limpieza de datos, eliminación de				duplicados, corrección de errores, nomralizar 					formatos.
+
+				-Nos permite realizar consultas sobre grandes 					cantidades de datos y buscar patrones o generar					modelos predictivos.
+
+					-Descriptivo: visión clara de lo que ha 					pasado en la empresa.
+
+					-Predictivo: técnicas para prever futuros 					escenarios...etc.
+
+				-Generan cuadros de mando
+				
+				Ejemplos: Power BI, SAP BusinessObjects, Looker
+
+
+	***Ventajas e Incovenientes de los ERP:
+
+		
+
+
+
+
+
+
+
+
+			
+			
