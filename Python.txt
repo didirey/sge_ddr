@@ -115,3 +115,7 @@ Python es un lenguaje interpretado (ejecuta línea a línea)
 
 		print(0b1010) base dos binario - 0b
 
+	
+	
+	
+
