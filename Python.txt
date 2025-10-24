@@ -117,5 +117,52 @@ Python es un lenguaje interpretado (ejecuta línea a línea)
 
 	
 	
-	
+		
 
+Listas de Python:
+
+	Python puede almacenar distintos tipos de datos en una misma lista.
+	Se pueden almacenar variables por referencias:
+		a = [ "a", "b", "c" ]
+		b = a[:]
+		a[2] = "x"
+		print(a) --> a b x 
+		print(b) --> a b x
+
+		a = [ "a", "b", "c" ]
+		b = a
+		a[2] = "x"
+		print(a) --> a b x 
+		print(b) --> a b c
+
+
+
+
+Diccionarios:
+
+	Almacena una serie de pares clave: valor, separados por comas y rodeado todo del 	símbolo de llaves
+
+
+	Ej:
+
+		user = {
+			"nombre": "Victor",
+			"pass": "paso",
+		}
+
+
+	
+		d = {
+			"Andrea": ["SGE", "PSP"]
+			"Luis": ["SGE", "DI"]
+		}
+	
+		alumnos_sge = { for in alumnos.items() }
+		
+		
+
+Set:
+
+	Conjuntos, son un tipo de datos parecido a una lista, pero los elementos de la		lista son únicos y los elementos deben de ser inmutables( no puede contener 
+	listas o diccionarios). No esta garantizado el 	orden.
+	

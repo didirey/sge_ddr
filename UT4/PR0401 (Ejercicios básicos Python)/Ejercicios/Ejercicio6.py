@@ -1,6 +1,9 @@
 result = 0
 
 def convert_units(number, measurement, convert):
+
+    global result # Esto se asgura de que estamos usando la variable que esta afuera de el metodo. 'result'
+
     match measurement:
         case "mm":
             if convert == "cm":
@@ -34,7 +37,7 @@ def convert_units(number, measurement, convert):
             result = "Unidad de medida no válida"
 
 number = int(input("Ingrese un número entero: "))
-measurement = str(input("Ingrese una unidad de medida (mm, cm, m, km): "))
+measurement = str(input("Ingrese la unidad de medida del número (mm, cm, m, km): "))
 convert = str(input("Ingrese la unidad a la que quiera convertir (mm, cm, m, km): "))
 
 convert_units(number, measurement, convert)

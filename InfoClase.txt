@@ -80,7 +80,6 @@ Enterprise resourse planning (ERP):
 				Ejemplos: Power BI, SAP BusinessObjects, Looker
 
 
-	***Ventajas e Incovenientes de los ERP:
 
 		
 
