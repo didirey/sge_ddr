@@ -165,4 +165,6 @@ Set:
 
 	Conjuntos, son un tipo de datos parecido a una lista, pero los elementos de la		lista son únicos y los elementos deben de ser inmutables( no puede contener 
 	listas o diccionarios). No esta garantizado el 	orden.
-	
+
+
+
