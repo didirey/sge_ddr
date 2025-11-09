@@ -11,3 +11,6 @@
 
 ## Ejercicios U04 (PRO404)
 [Ejercicios pr0404](./UT4/PR0404%20(Diccionarios%20Python)/pr0404.html)
+
+## Ejercicios UT04 (PRO405)
+[Ejercicios pr0505](./UT4/PR0405%20(Programación%20funcional)/pr0405.html)
