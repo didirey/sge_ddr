@@ -9,7 +9,7 @@
 ## Ejercicios UT04 (PRO403)
 [Ejercicios pr0403](./UT4/PR0403%20(Uso%20de%20listas%20Python)/pr0403.html)
 
-## Ejercicios U04 (PRO404)
+## Ejercicios UT04 (PRO404)
 [Ejercicios pr0404](./UT4/PR0404%20(Diccionarios%20Python)/pr0404.html)
 
 ## Ejercicios UT04 (PRO405)
