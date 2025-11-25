@@ -12,6 +12,10 @@
 
 [Ejercicio pr0301](./UT3/PR0301%20(Entorno%20Odoo)/pr0301.html)
 
+### Ejercicio UT03 (PRO302)
+
+[Ejercicio pr0302](./UT3/PR0302%20(Servicios%20externos)/pr0302.html)
+
 ## UT04:
 
 ### Ejercicios UT04 (PRO401)
