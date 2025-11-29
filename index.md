@@ -37,4 +37,4 @@
 
 ### Ejercicio UT05 (PRO501)
 
-[Ejercicio pr0501](./UT5/pr0501.html)
+[Ejercicio pr0501](./UT5/PR0501/pr0501.html)
