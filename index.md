@@ -31,10 +31,14 @@
 [Ejercicios pr0404](./UT4/PR0404%20(Diccionarios%20Python)/pr0404.html)
 
 ### Ejercicios UT04 (PRO405)
-[Ejercicios pr0505](./UT4/PR0405%20(Programación%20funcional)/pr0405.html)
+[Ejercicios pr0405](./UT4/PR0405%20(Programación%20funcional)/pr0405.html)
 
 ## UT05:
 
 ### Ejercicio UT05 (PRO501)
 
 [Ejercicio pr0501](./UT5/PR0501/pr0501.html)
+
+### Ejercicio UT05 (PRO502)
+
+[Ejercicio pr0502](./UT5/PR0502/pr0502.html)
