@@ -60,3 +60,13 @@
 ### Ejercicio UT06 (PRO606)
 
 [Ejercicio pr0606](./UT6/PR0606/pr0606.html)
+
+## UT07
+
+### Ejercicio UT07 (PRO701)
+
+[Ejercicio pr0701](./UT7/pr701/pr0701.html)
+
+### Ejercicio UT07 (PRO702)
+
+[Ejercicio pr0702](./UT7/pr702/pr702.html)
